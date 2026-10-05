@@ -1,0 +1,9 @@
+{
+  "name": "pandemic-v10-copia",
+  "version": "1.0.0",
+  "description": "Pandemic La Cura multiplayer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
